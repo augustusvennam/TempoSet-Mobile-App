@@ -1,0 +1,27 @@
+# Agent related
+.agent/
+.agents/
+stitch-skills/
+.gemini/
+.stitch/
+
+# Flutter/Dart related (nested)
+temposet/.dart_tool/
+temposet/.flutter-plugins-dependencies
+temposet/.pub-cache/
+temposet/.pub/
+temposet/build/
+temposet/coverage/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
