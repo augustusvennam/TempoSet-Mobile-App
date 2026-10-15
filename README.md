@@ -1,5 +1,5 @@
 # TempoSet 🎵
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9b9448b5-db93-4d05-a15d-adf28052fc92" />
 A professional-grade metronome and setlist management app for musicians, built with Flutter.
 
 ---
