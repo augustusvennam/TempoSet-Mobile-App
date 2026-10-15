@@ -138,9 +138,3 @@ flutter build apk --release
 | Android | ✅ Supported |
 | iOS | 🔧 In progress |
 | Web | ❌ Not supported (audio engine is native) |
-
----
-
-## License
-
-This project is currently private and unlicensed. All rights reserved.
